@@ -1,4 +1,6 @@
 # FreeRTOS AWS Reference Integrations
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Famazon-freertos.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Famazon-freertos?ref=badge_shield)
+
 
 ## Cloning
 This repo uses [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) to bring in dependent components.
@@ -93,3 +95,6 @@ The ```./projects``` folder contains the IDE test and demo projects for each ven
 
 ## Mbed TLS License
 This repository uses Mbed TLS under Apache 2.0
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Famazon-freertos.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Famazon-freertos?ref=badge_large)
